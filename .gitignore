@@ -15,6 +15,10 @@ Cargo.lock
 
 work/hdisk
 
-#虚拟硬盘
+# 虚拟硬盘
 *.vdi
 *.img
+# 编译文件
+*.o
+*.elf
+*.bin
